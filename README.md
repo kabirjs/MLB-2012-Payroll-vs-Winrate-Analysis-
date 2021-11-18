@@ -1,6 +1,3 @@
-## VIEW FULL REPORT (IN PROGRESS)
-https://docs.google.com/document/d/1XN6czefYp-i1twZdv8dtXzmogAW9LpzwSb0-urGfetE/edit?usp=sharing
-
 ## An Elementary Data Analysis on the MLB 2012 Season and the Impact Each Team's PAYROLL has on WINS
 Kabir Snell 11/16/2021-TBD
 
